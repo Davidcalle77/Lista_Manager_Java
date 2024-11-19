@@ -1,8 +1,6 @@
 
 /**
- Grupo 1
- Andres Felipe Melendez Acevedo, 
- Federico Muñoz Gallo, Johan Stiven Orrego Arias,Juan David Calle Correa
+Juan David Calle Correa
 **/
 
 package com.mycompany.listmanager;
