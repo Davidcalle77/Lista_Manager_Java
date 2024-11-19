@@ -1,0 +1,7 @@
+com\mycompany\listmanager\ListManager$CircularNode.class
+com\mycompany\listmanager\ListManager$DoubleNode.class
+com\mycompany\listmanager\ListManager$DoublyLinkedList.class
+com\mycompany\listmanager\ListManager.class
+com\mycompany\listmanager\ListManager$Node.class
+com\mycompany\listmanager\ListManager$SimpleLinkedList.class
+com\mycompany\listmanager\ListManager$CircularLinkedList.class
